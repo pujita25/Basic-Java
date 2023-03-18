@@ -1,0 +1,14 @@
+package com.in28minuties.oops;
+
+public class BiNumberRunner {
+
+	public static void main(String[] args) {
+		BiNumber numbers = new BiNumber(2, 3);
+		System.out.println(numbers.add());
+		System.out.println(numbers.multiply());
+		numbers.doubleValue();
+		System.out.println(numbers.getValue1());
+		System.out.println(numbers.getValue2());
+	}
+
+}

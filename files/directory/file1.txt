@@ -1,0 +1,8 @@
+hello
+how are you
+bat
+cat
+apple
+dog
+man
+bin
